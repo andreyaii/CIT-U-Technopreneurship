@@ -1,6 +1,6 @@
 # Technopreneurship Project Tracker (Frontend Prototype)
 
-A student-facing tracker for IT 411 Technopreneurship projects, built with
+A student-facing tracker for ES038 Technopreneurship projects, and deliverable tracker, built with
 React + Vite + Tailwind CSS + React Router + Lucide React.
 
 This is the **frontend-only** prototype described in the project brief:
